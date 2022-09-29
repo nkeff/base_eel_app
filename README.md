@@ -1,6 +1,8 @@
 # Шаблон приложения на EEL
 Шаблон кроссплатформенного web-view приложения на Python
 
+![](./screenshots/1.png)
+
 ## Установка
 ```
 git clone https://github.com/nkeff/base_eel_app
