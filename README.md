@@ -2,6 +2,7 @@
 Шаблон кроссплатформенного web-view приложения на Python
 
 ![](./screenshots/1.png)
+![](./screenshots/2.png)
 
 ## Установка
 ```
